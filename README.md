@@ -22,6 +22,6 @@ init.sh is just there to create a new year's directory filled with ones for each
 ## 2023 
 - Languages: Python/Java
 - Days 1-20 (Not 17, 12 & 19 part 1 only) and 24 part 1
-- A couple days without part2 solved still have code, it won't work, but it's there
+- A couple days without part 2 solved still have code, it won't work, but it's there
 ---
 Happy Coding!
