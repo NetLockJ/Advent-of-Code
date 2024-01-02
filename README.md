@@ -1,5 +1,4 @@
 # Advent of Code
-# Advent of Code
 
 These are my advent of code solutions from what I've done so far
 
