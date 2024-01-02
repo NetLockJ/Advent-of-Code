@@ -24,4 +24,5 @@ init.sh is just there to create a new year's directory filled with ones for each
 - Days 1-20 (Not 17, 12 & 19 part 1 only) and 24 part 1
 - A couple days without part 2 solved still have code, it won't work, but it's there
 ---
-Happy Coding!
+
+<span style="color:#fdfd65;text-shadow:0 0 5px #fdfd65">Happy Coding!</span>
