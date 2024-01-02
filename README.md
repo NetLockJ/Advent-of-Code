@@ -10,6 +10,7 @@ init.sh is just there to create a new year's directory filled with ones for each
 ## 2015 
 - Languages: Python
 - Working on for practice for 2023 AoC
+- Days 1-14
 ---
 
 ## 2022
